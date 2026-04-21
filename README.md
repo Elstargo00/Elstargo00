@@ -32,4 +32,6 @@ Here are some ideas to get you started:
 
 <p align = "center">
  <img width="550" src="https://activity-graph.herokuapp.com/graph?username=Elstargo00&theme=gotham">
-</p> 
+</p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Elstargo00&theme=gotham&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
