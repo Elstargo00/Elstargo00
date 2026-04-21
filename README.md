@@ -26,8 +26,8 @@ Here are some ideas to get you started:
     <img width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elstargo00&layout=compact&theme=gotham">
 </p>
 
-<p align = "center">
- <img width="550" src="https://activity-graph.herokuapp.com/graph?username=Elstargo00&theme=gotham">
+<p align="center">
+  <img width="550" src="https://github-readme-streak-stats.herokuapp.com?user=Elstargo00&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D">
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Elstargo00&theme=gotham&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
